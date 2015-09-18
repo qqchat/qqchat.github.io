@@ -6,7 +6,7 @@ img{border:none;}
 a{text-decoration:none; color:#0057a9;}
 a:hover{ color:#f30; text-decoration:underline;}
 label{vertical-align:middle}
-.but{background:url(but.gif);border:1px #999 solid; height:20px; line-height:20px; padding:0px 5px; margin-left:3px; color:#000; cursor:pointer;vertical-align:middle}
+.but{background:url(http://www.qqzhibo.net/chats/images/but.gif);border:1px #999 solid; height:20px; line-height:20px; padding:0px 5px; margin-left:3px; color:#000; cursor:pointer;vertical-align:middle}
 .but:hover{background:#F1F1F1;}
 .t1{ margin-top:1px;}
 .t3{ margin-top:3px;}
@@ -31,9 +31,9 @@ label{vertical-align:middle}
 .line_enter input{padding:2px 4px; height:18px; line-height:18px; border:1px solid #CCC;background:#FFF;}
 .line_enter input:hover{border-color:#09C;}
 .line_enter input:focus{border-color:#09C;}
-.line_enter input.f{background:url(tip.gif) no-repeat 5px center #FFF;}
-.line_enter a{ width:70px; height:24px; margin-left:3px; background:url(send.gif) no-repeat; display:block; text-indent:-9999px;}
-.line_enter a:hover{background:url(send.gif) 0px -24px;}
+.line_enter input.f{background:url(http://www.qqzhibo.net/chats/images/tip.gif) no-repeat 5px center #FFF;}
+.line_enter a{ width:70px; height:24px; margin-left:3px; background:url(http://www.qqzhibo.net/chats/images/send.gif) no-repeat; display:block; text-indent:-9999px;}
+.line_enter a:hover{background:url(http://www.qqzhibo.net/chats/images/send.gif) 0px -24px;}
 .line_tip{ height:22px; padding-top:5px;}
 .line_tip .name{ height:22px; overflow:hidden; float:left;}
 #jm_name{width:70px; padding:0px 2px; height:18px;border:1px #CCC solid;vertical-align:middle}
