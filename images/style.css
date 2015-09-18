@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* By Jewel_M */
+*{margin:0px; padding:0px; list-style:none;outline:none;}
+body{font-size:12px; font-family:Verdana, Tahoma, Arial, "Helvetica Neue", Helvetica, Sans-Serif; border:#FFF; color:#232323;}
+img{border:none;}
+a{text-decoration:none; color:#0057a9;}
+a:hover{ color:#f30; text-decoration:underline;}
+label{vertical-align:middle}
+.but{background:url(but.gif);border:1px #999 solid; height:20px; line-height:20px; padding:0px 5px; margin-left:3px; color:#000; cursor:pointer;vertical-align:middle}
+.but:hover{background:#F1F1F1;}
+.t1{ margin-top:1px;}
+.t3{ margin-top:3px;}
+
+#chat_title{height:26px; padding:0px 5px; line-height:26px;background:#F1F1F1;border-bottom:1px solid #CCC; overflow:hidden;}
+#chat_title .left{ width:160px; height:26px; float:left;}
+#chat_title .right{ height:26px; float:right; text-align:right;}
+#chat_title .right a{margin-left:5px;}
+
+#chat_content{width:100%; height:auto; background:#FFF;overflow-x:hidden;overflow-y:auto;}
+#chat_content p{ padding:4px 5px; margin-bottom:1px; line-height:18px;word-break:break-all}
+#chat_content p em{ margin-left:5px; color:#CCC;}
+#chat_content p.c{ background:#FFFFE1; color:#808080;}
+#chat_content p.a{ background:#FFEEEE; color:#F00;}
+#chat_content p.a9{ background:url(ico.gif) no-repeat 5px center; color:#00F; padding-left:22px;}
+#chat_content p.m{ background:#F1F1F1; color:#F60;}
+#chat_content img.f{width:24px; height:24px;vertical-align:middle;}
+
+#chat_bottom{height:50px; padding:4px 5px; background:#F1F1F1;border-top:1px solid #CCC; overflow:hidden;}
+.line_enter{ height:24px;}
+.line_enter input, .line_enter a{ float:left;}
+.line_enter input{padding:2px 4px; height:18px; line-height:18px; border:1px solid #CCC;background:#FFF;}
+.line_enter input:hover{border-color:#09C;}
+.line_enter input:focus{border-color:#09C;}
+.line_enter input.f{background:url(tip.gif) no-repeat 5px center #FFF;}
+.line_enter a{ width:70px; height:24px; margin-left:3px; background:url(send.gif) no-repeat; display:block; text-indent:-9999px;}
+.line_enter a:hover{background:url(send.gif) 0px -24px;}
+.line_tip{ height:22px; padding-top:5px;}
+.line_tip .name{ height:22px; overflow:hidden; float:left;}
+#jm_name{width:70px; padding:0px 2px; height:18px;border:1px #CCC solid;vertical-align:middle}
+.line_tip .close{ width:90px; height:22px; float:right; text-align:right;}
+
+.qqFace{padding:3px; background:#F1F1F1;border:1px solid #CCC;}
+.qqFace img{border:1px solid #F1F1F1;cursor:pointer; width:20px; height:20px;}
+.qqFace img:hover{border:1px solid #f3c;}
